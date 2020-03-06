@@ -8,3 +8,8 @@
 * [Valverde García, Samuel](https://docs.google.com/presentation/d/1diYmqaEinRm0YIbFPjg0YmNCh1G1A6zGPtV_C9-Z0w0/edit?usp=sharing) 
 * [García Molina, Jorge](https://docs.google.com/presentation/d/1YZ7gyjaZEREL1m-UD4HcRxH7VDcRXuPcz16XySQK0YE/edit?usp=sharing) 
 * [Aragón Rodríguez, Rafael](https://docs.google.com/presentation/d/1YZ7gyjaZEREL1m-UD4HcRxH7VDcRXuPcz16XySQK0YE/edit?usp=sharing) 
+
+## Future Connections
+
+* [Pacheco Matas, Rubén]
+* [Pastushenko, Román]
