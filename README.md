@@ -21,4 +21,4 @@
 
 ## Rocketfy
 
-* Montes Exposito, Rafael
+* [Montes Exposito, Rafael](https://github.com/rafaelmontes8/presentacion-dual) 
