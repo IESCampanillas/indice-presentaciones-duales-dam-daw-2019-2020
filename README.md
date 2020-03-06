@@ -11,5 +11,13 @@
 
 ## Future Connections
 
-* [Pacheco Matas, Rubén]
-* [Pastushenko, Román]
+* Pacheco Matas, Rubén
+* Pastushenko, Román
+
+## Dekra
+
+* Campos Vega, Álvaro
+
+## Rocketfy
+
+* Montes Exposito, Rafael
