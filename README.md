@@ -11,7 +11,7 @@
 
 ## Future Connections
 
-* Pacheco Matas, Rubén
+* [Pacheco Matas, Rubén](https://docs.google.com/presentation/d/11Tu4RpQfV2ZC-zG9MB_OUB9xhoX3R0smOWrcjUhtIF8/edit?usp=sharing) 
 * [Pastushenko, Román](https://docs.google.com/presentation/d/11Tu4RpQfV2ZC-zG9MB_OUB9xhoX3R0smOWrcjUhtIF8/edit?usp=sharing) 
 
 
