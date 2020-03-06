@@ -17,7 +17,7 @@
 
 ## Dekra
 
-* Campos Vega, Álvaro
+* [Campos Vega, Álvaro](https://github.com/AlvaroCamposVega/presentacion-dual1920)
 
 ## Rocketfy
 
