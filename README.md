@@ -37,7 +37,7 @@
 
 ### Demium (10:00h)
 
-* [Santos, Clemente]()
+* [Santos, Clemente](https://github.com/damcsb/presentacionDual)
 
 ### Freepik (10:30h)
 
