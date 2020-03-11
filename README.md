@@ -41,7 +41,7 @@
 
 ### Freepik (10:30h)
 
-* [Romero, Francisco]()
+* [Romero, Francisco](https://github.com/fromero98/PresentacionDual)
 
 
 
