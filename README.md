@@ -27,13 +27,22 @@
 
 ## Jueves 12 de marzo de 2020
 
-### CGI (9:00h)
+### Rocketfy (09:00h)
+
+* [Gómez, José María]()
+
+### CGI (9:30h)
 
 * [Robles Bastida, José]()
 
-### Accenture
+### Demium (10:00h)
 
-* [Lerible García, Nicolás]()
+* [Santos, Clemente]()
+
+### Freepik (10:30h)
+
+* [Romero, Francisco]()
+
 
 
 ## Viernes 13 de marzo de 2020
