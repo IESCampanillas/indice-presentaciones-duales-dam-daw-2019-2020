@@ -4,24 +4,24 @@
 
 ## Viernes 6 de marzo de 2020
 
-### Accenture
+### Accenture (09:00h)
 
 * [Lerible García, Nicolás](https://docs.google.com/presentation/d/13vw3yMGyHtDVNEeRjllpvC0V_05PAu2knl8ksP2IZS0/edit?usp=sharing)
 * [Valverde García, Samuel](https://docs.google.com/presentation/d/1diYmqaEinRm0YIbFPjg0YmNCh1G1A6zGPtV_C9-Z0w0/edit?usp=sharing) 
 * [García Molina, Jorge](https://docs.google.com/presentation/d/1YZ7gyjaZEREL1m-UD4HcRxH7VDcRXuPcz16XySQK0YE/edit?usp=sharing) 
 * [Aragón Rodríguez, Rafael](https://docs.google.com/presentation/d/1YZ7gyjaZEREL1m-UD4HcRxH7VDcRXuPcz16XySQK0YE/edit?usp=sharing) 
 
-### Future Connections
+### Future Connections (09:40h)
 
 * [Pacheco Matas, Rubén](https://docs.google.com/presentation/d/11Tu4RpQfV2ZC-zG9MB_OUB9xhoX3R0smOWrcjUhtIF8/edit?usp=sharing) 
 * [Pastushenko, Román](https://docs.google.com/presentation/d/11Tu4RpQfV2ZC-zG9MB_OUB9xhoX3R0smOWrcjUhtIF8/edit?usp=sharing) 
 
 
-### Dekra
+### Dekra (10:20h)
 
 * [Campos Vega, Álvaro](https://github.com/AlvaroCamposVega/presentacion-dual1920)
 
-### Rocketfy
+### Rocketfy (11:00h)
 
 * [Montes Exposito, Rafael](https://github.com/rafaelmontes8/presentacion-dual)
 
