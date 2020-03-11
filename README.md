@@ -27,9 +27,9 @@
 
 ## Jueves 12 de marzo de 2020
 
-### Accenture
+### CGI (9:00h)
 
-* [Lerible García, Nicolás]()
+* [Robles Bastida, José]()
 
 ### Accenture
 
