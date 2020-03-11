@@ -21,7 +21,7 @@
 
 * [Campos Vega, Álvaro](https://github.com/AlvaroCamposVega/presentacion-dual1920)
 
-### Rocketfy (11:00h)
+### Rocketfy (10:50h)
 
 * [Montes Exposito, Rafael](https://github.com/rafaelmontes8/presentacion-dual)
 
