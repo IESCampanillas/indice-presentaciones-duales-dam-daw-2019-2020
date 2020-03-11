@@ -35,3 +35,14 @@
 
 * [Lerible García, Nicolás]()
 
+
+## Viernes 13 de marzo de 2020
+
+### Accenture
+
+* [Lerible García, Nicolás]()
+
+### Accenture
+
+* [Lerible García, Nicolás]()
+
