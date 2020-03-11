@@ -47,11 +47,22 @@
 
 ## Viernes 13 de marzo de 2020
 
-### Accenture
+### Solbyte (09:00h)
 
-* [Lerible García, Nicolás]()
+* [Sevilla, Borja]()
 
-### Accenture
+### Avanade (09:30h)
 
-* [Lerible García, Nicolás]()
+* [Herrera, Antonio]()
+* [Jiménez, José Daniel]()
+
+
+### Viewnext (10:10h)
+
+* [Gómez, Alberto]()
+* [Pérez, Iván]()
+* [Del Pino, Laura]()
+* [Haller, Lino]()
+* [Perea, Mercedes]()
+* [Domínguez, Rosa María]()
 
