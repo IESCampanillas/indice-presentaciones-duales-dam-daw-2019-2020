@@ -29,7 +29,7 @@
 
 ### Rocketfy (09:00h)
 
-* [Gómez, José María]()
+* [Gómez, José María](https://xd.adobe.com/view/9263ed8a-27f0-43d2-541d-55c6570cb341-e452/?hints=off)
 
 ### CGI (9:30h)
 
