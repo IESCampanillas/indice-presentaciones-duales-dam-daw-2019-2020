@@ -49,7 +49,7 @@
 
 ### Solbyte (09:00h)
 
-* [Sevilla, Borja]()
+* [Sevilla, Borja](https://github.com/bsevrui/presentacion-dual-20)
 
 ### Avanade (09:30h)
 
