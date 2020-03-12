@@ -61,7 +61,7 @@
 
 * [Gómez, Alberto]()
 * [Pérez, Iván]()
-* [Del Pino, Laura]()
+* [Del Pino, Laura](https://github.com/lauradelpino24/Presentacion-DUAL-19-20.git)
 * [Haller, Lino]()
 * [Perea, Mercedes]()
 * [Domínguez, Rosa María]()
