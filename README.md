@@ -63,6 +63,6 @@
 * [Pérez, Iván]()
 * [Del Pino, Laura](https://github.com/lauradelpino24/Presentacion-DUAL-19-20.git)
 * [Haller, Lino](https://drive.google.com/file/d/1aFfmhhzXRn_E7pgiUb4CJcKbvYV-t7Q2/view?usp=sharing)
-* [Perea, Mercedes]()
+* [Perea, Mercedes](https://github.com/mmercedesperea/Presentacion_DUAL2DAW)
 * [Domínguez, Rosa María]()
 
