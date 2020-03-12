@@ -33,7 +33,7 @@
 
 ### CGI (9:30h)
 
-* [Robles Bastida, José]()
+* [Robles Bastida, José](https://github.com/Jose-Robles/Presentation-FP-DUAL-2019/raw/master/Presentation_2%C2%BA.pdf)
 
 ### Demium (10:00h)
 
