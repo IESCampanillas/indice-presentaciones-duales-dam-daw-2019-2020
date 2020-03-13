@@ -54,7 +54,7 @@
 ### Avanade (09:30h)
 
 * [Herrera, Antonio]()
-* [Jiménez, José Daniel]()
+* [Jiménez, José Daniel](https://github.com/danieljimenezquintana/Presentaci-n-Empresa-2-DAM)
 
 
 ### Viewnext (10:10h)
