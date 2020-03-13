@@ -59,7 +59,7 @@
 
 ### Viewnext (10:10h)
 
-* [Gómez, Alberto]()
+* [Gómez, Alberto](https://docs.google.com/presentation/d/13pAqUsYu_KfXRlgOyVUFb5nO2I13bRu_FM4hodgWvqI/edit?usp=sharing)
 * [Pérez, Iván](https://drive.google.com/open?id=1Qka-KO8NuelyMLXQg9y-4XXjd-MNWd36)
 * [Del Pino, Laura](https://github.com/lauradelpino24/Presentacion-DUAL-19-20.git)
 * [Haller, Lino](https://drive.google.com/file/d/1aFfmhhzXRn_E7pgiUb4CJcKbvYV-t7Q2/view?usp=sharing)
